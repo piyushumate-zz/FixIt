@@ -1,0 +1,2 @@
+DirectoryIndex default.php
+ErrorDocument 404 /error.php
